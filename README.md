@@ -34,4 +34,15 @@ LLM (Groq + LLaMA3)
 Tailored Cold Email
    ↓
 Display via Streamlit
+```
+
+## 🛠️ Tech Stack
+- Python  
+- Streamlit  
+- LangChain  
+- Groq API (LLaMA3)  
+- Regex (Text Preprocessing)
+
+---
+🖼️ Demo Preview
 
